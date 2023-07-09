@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d082563b9e094e44482c783a36a7ae73, type: 3}
+  m_Name: Card Rule 1
+  m_EditorClassIdentifier: 
+  RoyalStraightFlush:
+  - {fileID: 11400000, guid: 6f77c83862a66b94fa95525a4017a72f, type: 2}
+  - {fileID: 11400000, guid: ff4f7dac74a40ad41a2e54336ec90a0c, type: 2}
+  - {fileID: 11400000, guid: 537fcdbb3b2e63049816778884ffd72f, type: 2}
+  - {fileID: 11400000, guid: 483ac92f565ea0b4dbb67a2d40ff95df, type: 2}
+  - {fileID: 11400000, guid: 3c258c98c5197364b91dfbcfdc5780fc, type: 2}
+  - {fileID: 11400000, guid: 941f329b137d971428f0f9d7d0158afb, type: 2}
+  - {fileID: 11400000, guid: 716645218a466cd40a84fc41ae64e017, type: 2}
+  - {fileID: 11400000, guid: ad37e04cdc9450f498189491715108c9, type: 2}
+  - {fileID: 11400000, guid: 7179466b302b4ec4a9d8b79e5fe91af0, type: 2}
+  - {fileID: 11400000, guid: 0098f368b8d8d4c419af18c53cf22888, type: 2}
+  - {fileID: 11400000, guid: 93108bb8b7fe5d64d9f676ed77647bd1, type: 2}
+  - {fileID: 11400000, guid: 5cec5ce181301fa4c9158d84e67d2d86, type: 2}
+  - {fileID: 11400000, guid: 6f77c83862a66b94fa95525a4017a72f, type: 2}
+  - {fileID: 11400000, guid: ff4f7dac74a40ad41a2e54336ec90a0c, type: 2}
+  - {fileID: 11400000, guid: 537fcdbb3b2e63049816778884ffd72f, type: 2}
+  - {fileID: 11400000, guid: 483ac92f565ea0b4dbb67a2d40ff95df, type: 2}
+  - {fileID: 11400000, guid: 3c258c98c5197364b91dfbcfdc5780fc, type: 2}
+  - {fileID: 11400000, guid: 941f329b137d971428f0f9d7d0158afb, type: 2}
+  - {fileID: 11400000, guid: 716645218a466cd40a84fc41ae64e017, type: 2}
+  - {fileID: 11400000, guid: ad37e04cdc9450f498189491715108c9, type: 2}
+  - {fileID: 11400000, guid: 7179466b302b4ec4a9d8b79e5fe91af0, type: 2}
+  - {fileID: 11400000, guid: 0098f368b8d8d4c419af18c53cf22888, type: 2}
+  - {fileID: 11400000, guid: 93108bb8b7fe5d64d9f676ed77647bd1, type: 2}
+  - {fileID: 11400000, guid: 5cec5ce181301fa4c9158d84e67d2d86, type: 2}
+  StraightFlush:
+  - {fileID: 11400000, guid: 6f77c83862a66b94fa95525a4017a72f, type: 2}
+  - {fileID: 11400000, guid: ff4f7dac74a40ad41a2e54336ec90a0c, type: 2}
+  - {fileID: 11400000, guid: 537fcdbb3b2e63049816778884ffd72f, type: 2}
+  - {fileID: 11400000, guid: 483ac92f565ea0b4dbb67a2d40ff95df, type: 2}
+  - {fileID: 11400000, guid: 3c258c98c5197364b91dfbcfdc5780fc, type: 2}
+  - {fileID: 11400000, guid: 941f329b137d971428f0f9d7d0158afb, type: 2}
+  - {fileID: 11400000, guid: 716645218a466cd40a84fc41ae64e017, type: 2}
+  - {fileID: 11400000, guid: ad37e04cdc9450f498189491715108c9, type: 2}
+  - {fileID: 11400000, guid: 7179466b302b4ec4a9d8b79e5fe91af0, type: 2}
+  - {fileID: 11400000, guid: 0098f368b8d8d4c419af18c53cf22888, type: 2}
+  - {fileID: 11400000, guid: 93108bb8b7fe5d64d9f676ed77647bd1, type: 2}
+  - {fileID: 11400000, guid: 5cec5ce181301fa4c9158d84e67d2d86, type: 2}
+  FiveCards:
+  - {fileID: 11400000, guid: 941f329b137d971428f0f9d7d0158afb, type: 2}
+  - {fileID: 11400000, guid: 941f329b137d971428f0f9d7d0158afb, type: 2}
+  - {fileID: 11400000, guid: ff4f7dac74a40ad41a2e54336ec90a0c, type: 2}
+  FourCards:
+  - {fileID: 11400000, guid: 941f329b137d971428f0f9d7d0158afb, type: 2}
+  - {fileID: 11400000, guid: ff4f7dac74a40ad41a2e54336ec90a0c, type: 2}
+  FullHouse:
+  - {fileID: 11400000, guid: 483ac92f565ea0b4dbb67a2d40ff95df, type: 2}
+  - {fileID: 11400000, guid: 537fcdbb3b2e63049816778884ffd72f, type: 2}
+  - {fileID: 11400000, guid: 7179466b302b4ec4a9d8b79e5fe91af0, type: 2}
+  Flush:
+  - {fileID: 11400000, guid: 716645218a466cd40a84fc41ae64e017, type: 2}
+  Straight:
+  - {fileID: 11400000, guid: 3c258c98c5197364b91dfbcfdc5780fc, type: 2}
+  - {fileID: 11400000, guid: 0098f368b8d8d4c419af18c53cf22888, type: 2}
+  Triple:
+  - {fileID: 11400000, guid: 537fcdbb3b2e63049816778884ffd72f, type: 2}
+  - {fileID: 11400000, guid: 93108bb8b7fe5d64d9f676ed77647bd1, type: 2}
+  TwoPairs:
+  - {fileID: 11400000, guid: 6f77c83862a66b94fa95525a4017a72f, type: 2}
+  - {fileID: 11400000, guid: ad37e04cdc9450f498189491715108c9, type: 2}
+  OnePair:
+  - {fileID: 11400000, guid: 483ac92f565ea0b4dbb67a2d40ff95df, type: 2}
+  Top:
+  - {fileID: 11400000, guid: 5cec5ce181301fa4c9158d84e67d2d86, type: 2}

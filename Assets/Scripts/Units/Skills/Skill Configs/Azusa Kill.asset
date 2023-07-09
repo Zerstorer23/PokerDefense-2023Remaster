@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f139307be285904b85a4845ca7c9823, type: 3}
+  m_Name: Azusa Kill
+  m_EditorClassIdentifier: 
+  skill_uid: Azusa 1
+  skill_name_key: TXT_KEY_AZUSA_SKILL_KILL
+  skill_desc_key:
+  - TXT_KEY_AZUSA_SKILL_KILL_DESC_0
+  - TXT_KEY_AZUSA_SKILL_KILL_DESC_0
+  - TXT_KEY_AZUSA_SKILL_KILL_DESC_0
+  - TXT_KEY_AZUSA_SKILL_KILL_DESC_3
+  - TXT_KEY_AZUSA_SKILL_KILL_DESC_3
+  skill_icon: {fileID: 21300000, guid: f5865e9f6072aa8418dd99bcd787127c, type: 3}
+  canAffectKuroi: 1
+  skillType: 2
+  ActivationFrequency: 0.2
+  ActiveSkill_Slot: 3
+  SuccessPercentage: 0
+  SuccessBuff_Type: 0
+  SuccessBuff_InfluenceRange: 0
+  SuccessBuff_Modifier: 0
+  SuccessBuff_Time: 0
+  FailBuff_Time: 0
+  projectile_config: {fileID: 11400000, guid: 40214b2b01847e64d94362f99f35f1e3, type: 2}
+  burnig_projectile_config: {fileID: 0}

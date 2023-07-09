@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85ff7feac165bea4886bfdc93c880be6, type: 3}
+  m_Name: Ami
+  m_EditorClassIdentifier: 
+  uid: AMI
+  characterID: 3
+  txt_name: TXT_KEY_AMI
+  txt_tutorial_key: LearnFutami
+  colorHex: '#FFE43F'
+  sellValue_Dance: 1
+  sellValue_Visual: 0
+  sellValue_Vocal: 128
+  unitMass: 0
+  baseHand: 2
+  characterConfig: {fileID: 11400000, guid: 9435e3221a06baa479c43bfb75a2ff8c, type: 2}
+  myProjectileConfig: {fileID: 11400000, guid: f5a374c609e742446a23082f6c386c86, type: 2}
+  myPortraitSprite: {fileID: 21300000, guid: 1ebbcc33ca70a5143abf037fad8a0cc4, type: 3}
+  myBodySprite: {fileID: 2719289870773294993, guid: eeaea639fc259d943aa0baed3baa7114,
+    type: 3}
+  myGunPos: {x: 0, y: 0.238, z: 0}
+  isMelee: 0
+  attackDamage: 100
+  attackDelay: 0.625
+  attackDistance: 8
+  attackUpgradeIncrement: 8
+  VisualUpgradeIncrement: 1.4
+  AI_Flavour: 1
+  skillConfigs:
+  - {fileID: 11400000, guid: 924f8a1869352f04d8455b2723279722, type: 2}
+  dance_upgrade_text_1: TXT_KEY_DANCE_UPGRADE_1_AMI
+  dance_upgrade_text_2: TXT_KEY_DANCE_UPGRADE_2_AMI
+  dance_upgrade_text_3: TXT_KEY_DANCE_UPGRADE_3_AMI
+  dance_upgrade_text_4: TXT_KEY_DANCE_UPGRADE_4_AMI

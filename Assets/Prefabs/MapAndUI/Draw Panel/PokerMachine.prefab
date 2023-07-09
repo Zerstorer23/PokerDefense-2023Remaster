@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1980371409020470741
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5203719281518645490}
+  - component: {fileID: 976718303187042350}
+  m_Layer: 0
+  m_Name: PokerMachine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5203719281518645490
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1980371409020470741}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &976718303187042350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1980371409020470741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e8eb120d4b20ca4db6e668c6bc82322, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spriteReferences:
+  - {fileID: 21300000, guid: 13fd0c575fcc91041aa89137675f40bd, type: 3}
+  - {fileID: 21300000, guid: 38ef3d8d078739644a9f2ca90bcb4b4a, type: 3}
+  - {fileID: 21300000, guid: d7f8f999d94724d44ac5bc7f5d6fca9e, type: 3}
+  - {fileID: 21300000, guid: e24cef5e6af0e98409334bcc23f67a9c, type: 3}
+  - {fileID: 21300000, guid: b2cf8d2b5fe90704ca4a3bf9756bfd8a, type: 3}
+  - {fileID: 21300000, guid: b33b224a445dc8f468d9798c9e8d5199, type: 3}
+  - {fileID: 21300000, guid: 3589e220c85881c4190c26eac1963df3, type: 3}
+  - {fileID: 21300000, guid: dcef74846c521c048b02e27f9a2a957c, type: 3}
+  - {fileID: 21300000, guid: 331938e80d9413f4e9fdeffb80477cff, type: 3}
+  - {fileID: 21300000, guid: 8e0e23edf42d05b4ea4518092ce10780, type: 3}
+  - {fileID: 21300000, guid: 287690c2a90535343a59ae3f511701c0, type: 3}
+  - {fileID: 21300000, guid: 6d3113f52427d8e46a0326370f23a8ff, type: 3}
+  - {fileID: 21300000, guid: e94e84b832ae7454ab7314f2bd235528, type: 3}
+  - {fileID: 21300000, guid: 3af385d575dd16d4289d11c88d89a6a1, type: 3}
+  - {fileID: 21300000, guid: 34a3d52bbddbf1b4080f7f38cb168a1c, type: 3}
+  - {fileID: 21300000, guid: 0409a57ac303b1542933f4b8d816a14f, type: 3}
+  - {fileID: 21300000, guid: b5ccaa8c2a0a5b043893bb33697c96ea, type: 3}
+  - {fileID: 21300000, guid: f22718d253a7a294787eb0f43295a5d6, type: 3}
+  - {fileID: 21300000, guid: e6eefc323465e8543a0113b2c4e2bd84, type: 3}
+  - {fileID: 21300000, guid: 45b9fb7d1084dfb49aeb210c8ace46e7, type: 3}
+  - {fileID: 21300000, guid: c802426396d3da444b16d21800c65cb4, type: 3}
+  - {fileID: 21300000, guid: 66947fd8080c63e4c92a3ba1f94179a7, type: 3}
+  - {fileID: 21300000, guid: 9df484963815e5a4b97de2c3bf2e14da, type: 3}
+  - {fileID: 21300000, guid: 7a5fadc223e06944bb29b51aa77197a6, type: 3}
+  cardsObjects:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  handNameText: {fileID: 0}
+  gameSession: {fileID: 0}
+  BoardUI:
+  - {fileID: 0}
+  - {fileID: 0}
+  trendManager: {fileID: 0}
+  PokerAI: {fileID: 0}
+  numColor: 3
+  numClass: 8

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85ff7feac165bea4886bfdc93c880be6, type: 3}
+  m_Name: Azusa
+  m_EditorClassIdentifier: 
+  uid: AZUSA
+  characterID: 12
+  txt_name: TXT_KEY_AZUSA
+  txt_tutorial_key: LearnAzusa
+  colorHex: '#9238BE'
+  sellValue_Dance: 1
+  sellValue_Visual: 1
+  sellValue_Vocal: 0
+  unitMass: 0
+  baseHand: 7
+  characterConfig: {fileID: 11400000, guid: 61c20cfd73aa31543a7113f3dac5f415, type: 2}
+  myProjectileConfig: {fileID: 11400000, guid: 11205d151a595fa4393762a937763929, type: 2}
+  myPortraitSprite: {fileID: 21300000, guid: 09432b89801f1524abb8a64f010609a3, type: 3}
+  myBodySprite: {fileID: 21300000, guid: 09432b89801f1524abb8a64f010609a3, type: 3}
+  myGunPos: {x: 0, y: 0.238, z: 0}
+  isMelee: 0
+  attackDamage: 0
+  attackDelay: -1
+  attackDistance: 6.2
+  attackUpgradeIncrement: 0
+  VisualUpgradeIncrement: 0
+  AI_Flavour: 1
+  skillConfigs:
+  - {fileID: 11400000, guid: dd98c28458eb71d4ea870ad53f1ef1e9, type: 2}
+  - {fileID: 11400000, guid: ece6c027218186d4dae40a215177a557, type: 2}
+  dance_upgrade_text_1: TXT_KEY_DANCE_UPGRADE_1_AZUSA
+  dance_upgrade_text_2: TXT_KEY_DANCE_UPGRADE_2_AZUSA
+  dance_upgrade_text_3: TXT_KEY_DANCE_UPGRADE_3_AZUSA
+  dance_upgrade_text_4: TXT_KEY_DANCE_UPGRADE_4_AZUSA

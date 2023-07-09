@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11ff81ef056450e4896ac617f040e9aa, type: 3}
+  m_Name: Takane Ramen
+  m_EditorClassIdentifier: 
+  proj_tag: takane_ramen
+  moveSpeed: 30
+  explosionPrefab: {fileID: 2800589877081548575, guid: eab22e6083f2b8040a9c16ec5fa1fc1e,
+    type: 3}
+  explosionSprite: {fileID: -1474525974383347472, guid: ec938f44b3fae544480e529c1a0f83b3,
+    type: 3}
+  explosionAnimatorController: {fileID: 9100000, guid: 7a50efbb58d2bbf48a5cb697d51aa762,
+    type: 2}
+  sprite: {fileID: -1474525974383347472, guid: ec938f44b3fae544480e529c1a0f83b3, type: 3}
+  meleeController: {fileID: 0}
+  verticalExplosion: 0
+  isSkill: 0
+  txt_projectile_name: TXT_KEY_PROJ__TAKANE
+  moveType: 0
+  isPenetration: 0
+  isSplash: 0
+  isSlow: 0
+  isStun: 0
+  isInstaKill: 0
+  isBouncing: 0
+  isCustomBuff: 0
+  effectRange: 0
+  effectTime: 0
+  effectDamageModifier: 0

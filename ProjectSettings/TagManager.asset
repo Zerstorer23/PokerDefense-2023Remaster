@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boundary
+  - EnemyUnit
+  - MyUnit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Boundary
+  - Units
+  - Waypoint
+  - PlacingArea
+  - MoveArea
+  - TargetFinder
+  - Projectile
+  - SpawnBlockers
+  - ProjectileFInder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2471491537
+    locked: 0
+  - name: Foreground
+    uniqueID: 583390555
+    locked: 0
+  - name: Boundary
+    uniqueID: 1061577885
+    locked: 0
+  - name: Buff_Background
+    uniqueID: 1987140481
+    locked: 0
+  - name: Units
+    uniqueID: 1012238439
+    locked: 0
+  - name: BuffIndicator
+    uniqueID: 3438136079
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: idolrankingUI
+    uniqueID: 3065178073
+    locked: 0
+  - name: UI
+    uniqueID: 597445001
+    locked: 0
+  - name: Tutorial UI
+    uniqueID: 1515085733
+    locked: 0

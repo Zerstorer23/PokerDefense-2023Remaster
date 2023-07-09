@@ -1,0 +1,1268 @@
+{
+    "items": [
+      {
+        "key": "TXT_KEY_AMIMAMI_SKILL",
+        "value": "双子パワー\r"
+      },
+      {
+        "key": "TXT_KEY_AMIMAMI_SKILL_DESC_0",
+        "value": "亜美 真美が攻撃した対象は2。5秒間 亜美 真美のダメージ量が <color=#77c877>20%</color> 上がります。 \\nこの効果は重なります。\r"
+      },
+      {
+        "key": "TXT_KEY_AMIMAMI_SKILL_DESC_1",
+        "value": "亜美 真美が攻撃した対象は2。5秒間 亜美 真美のダメージ量が <color=#77c877>40%</color> 上がります。 \\nこの効果は重なります。\r"
+      },
+      {
+        "key": "TXT_KEY_AMIMAMI_SKILL_DESC_2",
+        "value": "亜美 真美が攻撃した対象は2。5秒間 亜美 真美のダメージ量が <color=#77c877>40%</color> 上り、 防御力が <color=#77c877>20%</color> 下がります。 \\nこの効果は重なります。\r"
+      },
+      {
+        "key": "TXT_KEY_AMIMAMI_SKILL_DESC_3",
+        "value": "亜美 真美が攻撃した対象は2。5秒間 亜美 真美のダメージ量が <color=#77c877>80%</color> 上り、 防御力が <color=#77c877>20%</color> 下がります。 \\nこの効果は重なります。\r"
+      },
+      {
+        "key": "TXT_KEY_AMIMAMI_SKILL_DESC_4",
+        "value": "亜美 真美が攻撃した対象は2。5秒間 <color=#77c877>765 アイドル</color>のダメージ量が <color=#77c877>80%</color> 上り、 防御力が <color=#77c877>20%</color> 下がります。 \\nこの効果は重なります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_1_AMI",
+        "value": "亜美 真美が攻撃した対象は2。5秒間 亜美 真美のダメージ量が 40% 上がります。 \\nこの効果は重なります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_2_AMI",
+        "value": "亜美 真美が攻撃した対象は 追加で 防御力が 20% 下がります。 この効果は重なります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_3_AMI",
+        "value": "亜美 真美が攻撃した対象は2。5秒間 亜美 真美のダメージ量が 80% 上がります。 \\nこの効果は重なります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_4_AMI",
+        "value": "亜美 真美が攻撃した対象は全765アイドルのダメージ量が 上がります。\r"
+      },
+      {
+        "key": "TXT_KEY_AZUSA_SKILL_SLOW",
+        "value": "LOST\r"
+      },
+      {
+        "key": "TXT_KEY_AZUSA_SKILL_SLOW_DESC_0",
+        "value": "指定範囲に入る961プロの攻撃を ８秒間 <color=#77c877>$</color>回 除去します ボーカル <color=#77c877>$</color>点当たり ＋一回を除去します \\nこのスキルはノンターゲティングです。\r"
+      },
+      {
+        "key": "TXT_KEY_AZUSA_SKILL_SLOW_DESC_2",
+        "value": "指定範囲に入る961プロの攻撃を 12秒間 <color=#77c877>$</color>回 除去します。 ボーカル <color=#77c877>$</color>点当たり ＋一回を除去します \\nこのスキルはノンターゲティングです。\r"
+      },
+      {
+        "key": "TXT_KEY_AZUSA_SKILL_KILL",
+        "value": " 迷子ストーム\r"
+      },
+      {
+        "key": "TXT_KEY_AZUSA_SKILL_KILL_DESC_0",
+        "value": "対象がゲーム上から消えます。 961プロのアイドルに使うと\r"
+      },
+      {
+        "key": "TXT_KEY_AZUSA_SKILL_KILL_DESC_3",
+        "value": "<color=#77c877>範囲</color>以内全員が消えます この効果は961を対象として発動できないし、アイドルを対象にすると自分も消えます。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_1_AZUSA",
+        "value": " 迷子ストーム 充電速度が50%上がります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_2_AZUSA",
+        "value": "LOST スキルが ボーカル 3点当たり攻撃を さらに 1 回除去し、持続時間が 4 秒増加します\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_3_AZUSA",
+        "value": "LOST 充電速度が50%上がります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_4_AZUSA",
+        "value": " 迷子ストームが範囲香華になります。 この効果は裏切ったアイドルに適用されません。\r"
+      },
+      {
+        "key": "TXT_KEY_CHIHAYA_SKILL",
+        "value": "思い出\r"
+      },
+      {
+        "key": "TXT_KEY_CHIHAYA_SKILL_DESC_0",
+        "value": "<color=#77c877>16</color>秒ごとに トラックを送り、行動不能になります。\r"
+      },
+      {
+        "key": "TXT_KEY_CHIHAYA_SKILL_DESC_1",
+        "value": "<color=#77c877>8</color>秒ごとに トラックを送り、行動不能になります。\r"
+      },
+      {
+        "key": "TXT_KEY_CHIHAYA_SKILL_DESC_2",
+        "value": "<color=#77c877>8</color>秒ごとに トラックを送り、行動不能になります。 トラックは 千早の攻撃の <color=#77c877>150%</color> 分のダメージになります。\r"
+      },
+      {
+        "key": "TXT_KEY_CHIHAYA_SKILL_YAKUSOKU",
+        "value": "約束\r"
+      },
+      {
+        "key": "TXT_KEY_CHIHAYA_SKILL_YAKUSOKU_DESC_0",
+        "value": "スキールが発動されても行動不能になりません\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_1_CHIHAYA",
+        "value": "スキール発動待機時間が50%減少します\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_2_CHIHAYA",
+        "value": "トラックは千早の攻撃の150%分のダメージになります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_3_CHIHAYA",
+        "value": "トラックは ダメージ範囲が二倍になります\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_4_CHIHAYA",
+        "value": "スキル [約束] 覚醒 : 千早が行動不能になりません\r"
+      },
+      {
+        "key": "TXT_KEY_HARUKA_SKILL",
+        "value": "リーダーシップ\r"
+      },
+      {
+        "key": "TXT_KEY_HARUKA_SKILL_DESC_0",
+        "value": "8秒ごとに周り1タイルの味方のダメージを<color=#77c877>24%</color> 上昇させます。 このスキルは <color=#c87777>50%</color> 確率で失敗し、行動不能になります。\r"
+      },
+      {
+        "key": "TXT_KEY_HARUKA_SKILL_DESC_1",
+        "value": "8秒ごとに周り1タイルの味方のダメージを<color=#77c877>48%</color> 上昇させます。 このスキルは <color=#c87777>50%</color> 確率で失敗し、行動不能になります。\r"
+      },
+      {
+        "key": "TXT_KEY_HARUKA_SKILL_DESC_2",
+        "value": "8秒ごとに周り1タイルの味方のダメージを<color=#77c877>48%</color> 上昇させます。\r"
+      },
+      {
+        "key": "TXT_KEY_HARUKA_SKILL_DESC_3",
+        "value": "8秒ごとに周り1タイルの味方のダメージを<color=#77c877>96%</color> 上昇させます。\r"
+      },
+      {
+        "key": "TXT_KEY_HARUKA_SKILL_DESC_4",
+        "value": "8秒ごとに周り1タイルの味方のダメージを<color=#77c877>96%</color> 上昇させるし、 春香の攻撃力の <color=#77c877>12%</color>分追加で上昇させます。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_1_HARUKA",
+        "value": "リーダーシップの攻撃力上昇が二倍になります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_2_HARUKA",
+        "value": "リーダーシップ 発動に失敗しません\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_3_HARUKA",
+        "value": "リーダーシップの攻撃力上昇が二倍になります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_4_HARUKA",
+        "value": "リーダーシップ発動時春香の攻撃力の 12%を周りのユニットに追加します。\r"
+      },
+      {
+        "key": "TXT_KEY_HIBIKI_SKILL",
+        "value": "動物友達！\r"
+      },
+      {
+        "key": "TXT_KEY_HIBIKI_SKILL_DESC_0",
+        "value": "5秒ごとに動物を読んで一緒に戦います。動物は響の攻撃力の<color=#77c877>50%</color>分のダメージになります。 最大 <color=#77c877>1</color>匹を呼びます。\r"
+      },
+      {
+        "key": "TXT_KEY_HIBIKI_SKILL_DESC_1",
+        "value": "5秒ごとに動物を読んで一緒に戦います。動物は響の攻撃力の<color=#77c877>100%</color>分のダメージになります。 最大 <color=#77c877>1</color>匹を呼びます。\r"
+      },
+      {
+        "key": "TXT_KEY_HIBIKI_SKILL_DESC_2",
+        "value": "5秒ごとに動物を読んで一緒に戦います。動物は響の攻撃力の<color=#77c877>100%</color>分のダメージになります。 最大 <color=#77c877>2</color>匹を呼びます。\r"
+      },
+      {
+        "key": "TXT_KEY_HIBIKI_SKILL_DESC_3",
+        "value": "5秒ごとに動物を読んで一緒に戦います。動物は響の攻撃力の<color=#77c877>100%</color>分のダメージになります。 最大 <color=#77c877>3</color>匹を呼びます。\r"
+      },
+      {
+        "key": "TXT_KEY_HIBIKI_SKILL_SOLO",
+        "value": "ぼっちだぞ…\r"
+      },
+      {
+        "key": "TXT_KEY_HIBIKI_SKILL_SOLO_DESC_0",
+        "value": "周り一タイル以内の味方の攻撃力が<color=#c87777>25%</color> 減少します\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_1_HIBIKI",
+        "value": "響の動物は響きと同じダメージを与えます。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_2_HIBIKI",
+        "value": "響きが 最大 動物に匹を呼びます。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_3_HIBIKI",
+        "value": "響が最大動物3匹を呼びます。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_4_HIBIKI",
+        "value": "[ぼっちだぞ…] スキルが消えます。\r"
+      },
+      {
+        "key": "TXT_KEY_IORI_SKILL",
+        "value": "凸ビーム\r"
+      },
+      {
+        "key": "TXT_KEY_IORI_SKILL_DESC_0",
+        "value": "<color=#77c877>16</color>秒ごとに 攻撃力の<color=#77c877>300%</color>ダメージを与える攻撃を行います。\r"
+      },
+      {
+        "key": "TXT_KEY_IORI_SKILL_DESC_1",
+        "value": "<color=#77c877>8</color>秒ごとに 攻撃力の<color=#77c877>300%</color>ダメージを与える攻撃を行います。\r"
+      },
+      {
+        "key": "TXT_KEY_IORI_SKILL_DESC_4",
+        "value": "<color=#77c877>8</color>秒ごとに 攻撃力の<color=#77c877>600%</color>ダメージを与える攻撃を行います。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_1_IORI",
+        "value": "スキル 発動待機時間が50%減少します。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_2_IORI",
+        "value": "攻撃力が5000上がります\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_3_IORI",
+        "value": "攻撃力が5000上がります\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_4_IORI",
+        "value": "スキルを発動すると伊織の攻撃力の6倍のダメージを与えます。\r"
+      },
+      {
+        "key": "TXT_KEY_MAKOTO_SKILL",
+        "value": "やりぃ～！\r"
+      },
+      {
+        "key": "TXT_KEY_MAKOTO_SKILL_DESC_0",
+        "value": "8秒ごとに <color=#77c877>50%</color>確率で力を解放します。 解放中の攻撃は範囲攻撃になります。範囲攻撃は攻撃力の<color=#77c877>50%</color>のダメージを与えます。\r"
+      },
+      {
+        "key": "TXT_KEY_MAKOTO_SKILL_DESC_1",
+        "value": "8秒ごとに力を解放します。 解放中の攻撃は範囲攻撃になります。範囲攻撃は攻撃力の攻撃力の<color=#77c877>50%</color>のダメージを与えます。\r"
+      },
+      {
+        "key": "TXT_KEY_MAKOTO_SKILL_DESC_2",
+        "value": "8秒ごとに力を解放します。 解放中の攻撃は範囲攻撃になります。範囲攻撃は攻撃力の攻撃力の<color=#77c877>100%</color>のダメージを与えます。\r"
+      },
+      {
+        "key": "TXT_KEY_MAKOTO_SKILL_DESC_3",
+        "value": "8秒ごとに力を解放します。解放中の攻撃は範囲攻撃になり攻撃速度が<color=#77c877>50%</color> 上がります。 範囲被害は攻撃力の<color=#77c877>100%</color>のダメージを与えます。\r"
+      },
+      {
+        "key": "TXT_KEY_MAKOTO_SKILL_DESC_4",
+        "value": "8秒ごとに力を解放します。解放中の攻撃は範囲攻撃になり攻撃速度が<color=#77c877>50%</color>攻撃力が<color=#77c877>100%</color> 上がります。 範囲被害は攻撃力の<color=#77c877>100%</color>のダメージを与えます。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_1_MAKOTO",
+        "value": "スキル発動確率が100%になります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_2_MAKOTO",
+        "value": "スキルによる範囲ダメージが攻撃力の100%로上がります\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_3_MAKOTO",
+        "value": "スキル発動時攻撃速度が50% 上がります\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_4_MAKOTO",
+        "value": "スキル発動時攻撃力が100% 上がります\r"
+      },
+      {
+        "key": "TXT_KEY_MIKI_SKILL",
+        "value": "眠いなの…\r"
+      },
+      {
+        "key": "TXT_KEY_MIKI_SKILL_DESC_0",
+        "value": "ステージ開始直後から5秒間行動不能になります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_1_MIKI",
+        "value": "[眠いなの…] スキルが消えます。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_2_MIKI",
+        "value": "被害範囲が50％上がります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_3_MIKI",
+        "value": "攻撃速度が25% 上がります\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_4_MIKI",
+        "value": "攻撃速度が25% 上がります\r"
+      },
+      {
+        "key": "TXT_KEY_TAKANE_SKILL",
+        "value": "かぐや姫\r"
+      },
+      {
+        "key": "TXT_KEY_TAKANE_SKILL_DESC_0",
+        "value": "指定した地役にランダムで月が落ちます。<color=#77c877>30</color>個の月が落ちます。 月は攻撃力の<color=#77c877>100%</color>の範囲ダメージを与えます。\r"
+      },
+      {
+        "key": "TXT_KEY_TAKANE_SKILL_DESC_1",
+        "value": "指定した地役にランダムで月が落ちます。<color=#77c877>30</color>個の月が落ちます。 月は攻撃力の<color=#77c877>200%</color>の範囲ダメージを与えます。\r"
+      },
+      {
+        "key": "TXT_KEY_TAKANE_SKILL_DESC_2",
+        "value": "指定した地役にランダムで月が落ちます。<color=#77c877>60</color>個の月が落ちます。 月は攻撃力の<color=#77c877>200%</color>の範囲ダメージを与えます。\r"
+      },
+      {
+        "key": "TXT_KEY_TAKANE_SKILL_DESC_3",
+        "value": "指定した地役にランダムで月が落ちます。<color=#77c877>120</color>個の月が落ちます。 月は攻撃力の<color=#77c877>200%</color>の範囲ダメージを与えます。\r"
+      },
+      {
+        "key": "TXT_KEY_TAKANE_SKILL_DESC_4",
+        "value": "指定した地役にランダムで月が落ちます。<color=#77c877>120</color>個の月が落ちます。 月は攻撃力の<color=#77c877>300%</color>の範囲ダメージを与えます。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_1_TAKANE",
+        "value": "月一つ当たり200%のダメージを与えます。r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_2_TAKANE",
+        "value": "月の数が二倍になります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_3_TAKANE",
+        "value": "月の数が二倍になり、範囲が大きくなります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_4_TAKANE",
+        "value": "月一つ当たり300%のダメージを与えます。r"
+      },
+      {
+        "key": "TXT_KEY_YAYOI_SKILL",
+        "value": "うっうー！\r"
+      },
+      {
+        "key": "TXT_KEY_YAYOI_SKILL_DESC_0",
+        "value": "やよいが攻撃した対象が5秒内で除去されると、<color=#77c877>50%</color>のボーナスを受けます。 このスキルは重なりません。\r"
+      },
+      {
+        "key": "TXT_KEY_YAYOI_SKILL_DESC_1",
+        "value": "やよいが攻撃した対象が5秒内で除去されると、<color=#77c877>100%</color>のボーナスを受けます。 このスキルは重なりません。\r"
+      },
+      {
+        "key": "TXT_KEY_YAYOI_SKILL_UNICEF",
+        "value": "みんなの力で！\r"
+      },
+      {
+        "key": "TXT_KEY_YAYOI_SKILL_UNICEF_DESC_0",
+        "value": "周りタイル一つ内の見方から<color=#c87777>15%</color>分の攻撃力をもらいます。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_1_YAYOI",
+        "value": "除去報酬が100%上がります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_2_YAYOI",
+        "value": "やよいの攻撃が攻撃対象周りの的にもう1回ダメージを与えます。 与えるたびにダメージが50%下がります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_3_YAYOI",
+        "value": "やよいの攻撃が攻撃対象周りの的にもう2回ダメージを与えます。 与えるたびにダメージが50%下がります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_4_YAYOI",
+        "value": "スキル [みんなの力で！] 覚醒: 周りタイル一つ内の見方から15%分の攻撃力をもらいます。\r"
+      },
+      {
+        "key": "TXT_KEY_YUKIHO_SKILL",
+        "value": "雪歩の穴\r"
+      },
+      {
+        "key": "TXT_KEY_YUKIHO_SKILL_DESC_0",
+        "value": "対象が<color=#77c877>$</color>秒間行動不能になります。 ボーカルポイント $当たり行動不能時間が１秒長くなります。 このスキルは 961プロのアイドルにも使用可能です。\r"
+      },
+      {
+        "key": "TXT_KEY_YUKIHO_SKILL_DESC_3",
+        "value": "対象が<color=#77c877>$</color>秒間行動不能になり 防御力が 0になります。 ボーカルポイント $当たり行動不能時間が１秒長くなります。なります。このスキルは 961プロのアイドルにも使用可能です。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_1_YUKIHO",
+        "value": "ボーカル 3当たり行動不能時間が１秒長くなります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_2_YUKIHO",
+        "value": "スキル 充電速度が2倍になります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_3_YUKIHO",
+        "value": "対象の 防御力が 0になります。\r"
+      },
+      {
+        "key": "TXT_KEY_DANCE_UPGRADE_4_YUKIHO",
+        "value": "アイドルがスキルを自動で使います。 自動になると961プロのアイドルを優先ターゲットにします。\r"
+      },
+      {
+        "key": "TXT_KEY_CONFIRM",
+        "value": "確定\r"
+      },
+      {
+        "key": "TXT_KEY_CHANGE",
+        "value": "Ch@nge\r"
+      },
+      {
+        "key": "TXT_KEY_STRAIGHT_FLUSH",
+        "value": "ストレートフラッシュ\r"
+      },
+      {
+        "key": "TXT_KEY_RULE",
+        "value": "ルール\r"
+      },
+      {
+        "key": "TXT_KEY_GAME_INFO",
+        "value": "原作-Starcraft Use map Poker Defense\\n キャラクター、音楽 - BNSI アイドルマスターシリーズ \\n ゲームデザインーkoyokoyo_541 \\n ゲーム内広告及び課金要素がありません。\r"
+      },
+      {
+        "key": "TXT_KEY_RETIRE_REWARD",
+        "value": "===引退報酬===\r"
+      },
+      {
+        "key": "TXT_KEY_SPECIAL_COMBINATION",
+        "value": "===特別役===\r"
+      },
+      {
+        "key": "TXT_KEY_COMBINATION_DESC",
+        "value": "この役たちは Viを 1 もらえます。\r"
+      },
+      {
+        "key": "TXT_KEY_FIVE_CARDS",
+        "value": "ファイブカード\r"
+      },
+      {
+        "key": "TXT_KEY_FOUR_CARDS",
+        "value": "フォーカード\r"
+      },
+      {
+        "key": "TXT_KEY_RED_FLUSH",
+        "value": "レッドフラッシュ\r"
+      },
+      {
+        "key": "TXT_KEY_FLUSH_TITLE",
+        "value": "===フラッシュ===\r"
+      },
+      {
+        "key": "TXT_KEY_STRAIGHT",
+        "value": "ストレート\r"
+      },
+      {
+        "key": "TXT_KEY_TOP",
+        "value": "トップ\r"
+      },
+      {
+        "key": "TXT_KEY_ONE_PAIR",
+        "value": "ワンペア\r"
+      },
+      {
+        "key": "TXT_KEY_TWO_PAIRS",
+        "value": "ツーペア\r"
+      },
+      {
+        "key": "TXT_KEY_TRIPLE",
+        "value": "スリーカード\r"
+      },
+      {
+        "key": "TXT_KEY_FULL_HOUSE",
+        "value": "フルハウス\r"
+      },
+      {
+        "key": "TXT_KEY_ROYAL_STRAIGHT_FLUSH",
+        "value": "ロイヤルストレートフラッシュ\r"
+      },
+      {
+        "key": "TXT_KEY_FLUSH",
+        "value": "フラッシュ\r"
+      },
+      {
+        "key": "TXT_KEY_SEVEN",
+        "value": "7\r"
+      },
+      {
+        "key": "TXT_KEY_EIGHT",
+        "value": "8\r"
+      },
+      {
+        "key": "TXT_KEY_NINE",
+        "value": "9\r"
+      },
+      {
+        "key": "TXT_KEY_TEN",
+        "value": "10\r"
+      },
+      {
+        "key": "TXT_KEY_KING",
+        "value": "K\r"
+      },
+      {
+        "key": "TXT_KEY_QUEEN",
+        "value": "Q\r"
+      },
+      {
+        "key": "TXT_KEY_JACK",
+        "value": "J\r"
+      },
+      {
+        "key": "TXT_KEY_ACE",
+        "value": "A\r"
+      },
+      {
+        "key": "TXT_KEY_ACE_TITLE",
+        "value": "===A===\r"
+      },
+      {
+        "key": "TXT_KEY_QUEEN_TITLE",
+        "value": "===Q===\r"
+      },
+      {
+        "key": "TXT_KEY_COMBINATION_TITLE",
+        "value": "===役===\r"
+      },
+      {
+        "key": "TXT_KEY_KUROI_TITLE",
+        "value": "====961プロ====\r"
+      },
+      {
+        "key": "TXT_KEY_AUTO",
+        "value": "Auto\r"
+      },
+      {
+        "key": "TXT_KEY_DRAW_CARDS",
+        "value": "ドロー\r"
+      },
+      {
+        "key": "TXT_KEY_LESSON_TAP",
+        "value": "アップグレード!\r"
+      },
+      {
+        "key": "TXT_KEY_ATTACK_RANGE",
+        "value": "射程距離\r"
+      },
+      {
+        "key": "TXT_KEY_SECONDS",
+        "value": "秒\r"
+      },
+      {
+        "key": "TXT_KEY_STAT_KILLS",
+        "value": "キル:\r"
+      },
+      {
+        "key": "TXT_KEY_FIRE_IDOL",
+        "value": "販売\r"
+      },
+      {
+        "key": "TXT_KEY_RESERVE_IDOL",
+        "value": "待機室へ\r"
+      },
+      {
+        "key": "TXT_KEY_RELOCATE_IDOL",
+        "value": "再配置\r"
+      },
+      {
+        "key": "TXT_KEY_INVENTORY",
+        "value": "待機室\r"
+      },
+      {
+        "key": "TXT_KEY_UPGRADE_COST",
+        "value": "↓必要なポイント↓\r"
+      },
+      {
+        "key": "TXT_KEY_UPGRADE",
+        "value": "アップグレード!\r"
+      },
+      {
+        "key": "TXT_KEY_DEFAULT",
+        "value": "現在の効果\r"
+      },
+      {
+        "key": "TXT_KEY_LESSON_TOUCH_TO_VERIFY",
+        "value": "↑タッチして効果を確認\r"
+      },
+      {
+        "key": "TXT_KEY_LESSON_FINAL_STAT",
+        "value": "最終能力\r"
+      },
+      {
+        "key": "TXT_KEY_LESSON_RETURN_MAP",
+        "value": "マップへ\r"
+      },
+      {
+        "key": "TXT_KEY_TUTORIAL_OK",
+        "value": "わかった!  ▶\r"
+      },
+      {
+        "key": "TXT_KEY_TUTORIAL_GET_LOST",
+        "value": "要らない!  ▶\r"
+      },
+      {
+        "key": "TXT_KEY_IDOL_REPORT_TITLE",
+        "value": "今週の \\n アイドル ランキング!!ww\r"
+      },
+      {
+        "key": "TXT_KEY_RED",
+        "value": "レッド\r"
+      },
+      {
+        "key": "TXT_KEY_BLUE",
+        "value": "ブルー\r"
+      },
+      {
+        "key": "TXT_KEY_YELLOW",
+        "value": "イエロー\r"
+      },
+      {
+        "key": "TXT_KEY_AMI",
+        "value": "亜美\r"
+      },
+      {
+        "key": "TXT_KEY_MAMI",
+        "value": "真美\r"
+      },
+      {
+        "key": "TXT_KEY_YAYOI",
+        "value": "やよい\r"
+      },
+      {
+        "key": "TXT_KEY_CHIHAYA",
+        "value": "千早\r"
+      },
+      {
+        "key": "TXT_KEY_HARUKA",
+        "value": "春香\r"
+      },
+      {
+        "key": "TXT_KEY_YUKIHO",
+        "value": "雪歩\r"
+      },
+      {
+        "key": "TXT_KEY_IORI",
+        "value": "伊織\r"
+      },
+      {
+        "key": "TXT_KEY_AZUSA",
+        "value": "あずさ\r"
+      },
+      {
+        "key": "TXT_KEY_MIKI",
+        "value": "美希\r"
+      },
+      {
+        "key": "TXT_KEY_MAKOTO",
+        "value": "真\r"
+      },
+      {
+        "key": "TXT_KEY_TAKANE",
+        "value": "貴音\r"
+      },
+      {
+        "key": "TXT_KEY_HIBIKI",
+        "value": "響\r"
+      },
+      {
+        "key": "TXT_KEY_MAX",
+        "value": "最大\r"
+      },
+      {
+        "key": "TXT_KEY_GAME_INFO_TITLE",
+        "value": "===ゲーム情報===\r"
+      },
+      {
+        "key": "TXT_KEY_IDOL_HELPER_OK",
+        "value": "わかった\r"
+      },
+      {
+        "key": "TXT_KEY_LESSON_VISUAL_DESC",
+        "value": "レベル $ | 1当たり $ 上昇 | 現在の $\r"
+      },
+      {
+        "key": "TXT_KEY_LESSON_VOCAL_DESC",
+        "value": "レベル $ | 1当たり $ 上昇 | 現在の $\r"
+      },
+      {
+        "key": "TXT_KEY_TRENDING_IDOL_HEADER",
+        "value": "流行りのアイドル : [$  $] \\n残りターン: $  \\n流行りのボーナス<color=#f8d49d>ビジュアル +$</color>\r"
+      },
+      {
+        "key": "TXT_KEY_TRENDING_IDOL_KOTORI_LINE",
+        "value": "最新流行りの情報です! \\n今週の流行りのアイドルは[$  $] です!\r"
+      },
+      {
+        "key": "TXT_KEY_TREND_INFO_TITLE",
+        "value": "流行りのについて\r"
+      },
+      {
+        "key": "TXT_KEY_TREND_DESC",
+        "value": "7ターンごとに二人の流行りの アイドルが選択されます。 \\n 流行りの アイドルはビジュアルボーナスを受けます。 流行りのアイドルで得る能力値はアップグレードの限界突破ができます。 \\n 10ターンごとに 流行りの ボーナスが上がります。\r"
+      },
+      {
+        "key": "TXT_KEY_PURCHASE_TOWER_0",
+        "value": "悪い噂\r"
+      },
+      {
+        "key": "TXT_KEY_PURCHASE_TOWER_1",
+        "value": "引退させる\r"
+      },
+      {
+        "key": "TXT_KEY_PURCHASE_TILE_0",
+        "value": "タイル購入\r"
+      },
+      {
+        "key": "TXT_KEY_PURCHASE_TILE_1",
+        "value": "タイル購入\r"
+      },
+      {
+        "key": "TXT_KEY_NOT_ENOUGH_RESOURCES",
+        "value": "ポイントが足りないです。\r"
+      },
+      {
+        "key": "TXT_KEY_TURN",
+        "value": "ターン\r"
+      },
+      {
+        "key": "TXT_KEY_HP",
+        "value": "HP\r"
+      },
+      {
+        "key": "TXT_KEY_ATTACK",
+        "value": "攻撃力\r"
+      },
+      {
+        "key": "TXT_KEY_STAT_STUN",
+        "value": "行動不能\r"
+      },
+      {
+        "key": "TXT_KEY_STAT_MOVE_SPEED",
+        "value": "移動速度\r"
+      },
+      {
+        "key": "TXT_KEY_STAT_CHANGE_PROJECTILE",
+        "value": "覚醒\r"
+      },
+      {
+        "key": "TXT_KEY_GOLD_BONUS",
+        "value": "報酬\r"
+      },
+      {
+        "key": "TXT_KEY_FUTAMI",
+        "value": "ダメージ増加\r"
+      },
+      {
+        "key": "TXT_KEY_SKILL_DAMAGE_MOD",
+        "value": "スキルダメージ増加\r"
+      },
+      {
+        "key": "TXT_KEY_DEFENSE",
+        "value": "防御力\r"
+      },
+      {
+        "key": "TXT_KEY_ATTACK_SPEED",
+        "value": "攻撃速度\r"
+      },
+      {
+        "key": "TXT_KEY_HEAL",
+        "value": "回復\r"
+      },
+      {
+        "key": "TXT_KEY_TREND",
+        "value": "流行りの\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ_AMI",
+        "value": "ヘアバンド\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ_AZUSA_SKILL_2",
+        "value": "地図\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ_AZUSA_SKILL_0",
+        "value": "台風\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ_CHIHAYA",
+        "value": "マイク\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ_CHIHAYA_TRUCK",
+        "value": "トラックr"
+      },
+      {
+        "key": "TXT_KEY_PROJ_HARUKA",
+        "value": "リボン\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ_HAMZO",
+        "value": "ハム蔵\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ_INUMI",
+        "value": "いぬ美\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ_OUSUKE",
+        "value": "オウ助\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ_HIBIKI",
+        "value": "サーターアンダギー\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ_IORI",
+        "value": "うさちゃん\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ_YAMATO",
+        "value": "凸ビーム\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ_MAKOTO",
+        "value": "刀の王子様\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ_MAKOTO_2",
+        "value": "刀の王子様 改\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ_MIKI",
+        "value": "おにぎり\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ__TAKANE_MOON",
+        "value": "月\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ__TAKANE",
+        "value": "ラーメン\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ__YAYOI",
+        "value": "クーポン\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ__YUKIHO",
+        "value": "茶碗\r"
+      },
+      {
+        "key": "TXT_KEY_PROJ__YUKIHO_SHOVEL",
+        "value": "シャベル\r"
+      },
+      {
+        "key": "TXT_KEY_CHITA",
+        "value": "チータ\r"
+      },
+      {
+        "key": "TXT_KEY_CHUPA",
+        "value": "チュパカブラ\r"
+      },
+      {
+        "key": "TXT_KEY_KINPATSU",
+        "value": "金髪毛虫\r"
+      },
+      {
+        "key": "TXT_KEY_NONOWA",
+        "value": "ののワさん\r"
+      },
+      {
+        "key": "TXT_KEY_PINYA",
+        "value": "ぴにゃこら太\r"
+      },
+      {
+        "key": "TXT_KEY_YAYOKURI",
+        "value": "やよクリ\r"
+      },
+      {
+        "key": "TXT_KEY_LEON",
+        "value": "玲音\r"
+      },
+      {
+        "key": "TXT_KEY_KOHAKU",
+        "value": "心白\r"
+      },
+      {
+        "key": "TXT_KEY_SHIIKA",
+        "value": "詩花\r"
+      },
+      {
+        "key": "TXT_KEY_SKILL",
+        "value": "スキル\r"
+      },
+      {
+        "key": "TXT_KEY_UPGRADE_SKILL",
+        "value": "スキルアップグレード!\r"
+      },
+      {
+        "key": "TXT_KEY_WAVE",
+        "value": "ターン\r"
+      },
+      {
+        "key": "TXT_KEY_LIFE",
+        "value": "HP\r"
+      },
+      {
+        "key": "TXT_KEY_IS_VISUAL_COMBINATION",
+        "value": "確定時Viボーナス\r"
+      },
+      {
+        "key": "TXT_KEY_RETRY",
+        "value": "リトライ\r"
+      },
+      {
+        "key": "TXT_KEY_QUIT",
+        "value": "終了\r"
+      },
+      {
+        "key": "TXT_KEY_MOST_DRAWN",
+        "value": "最も多く出たアイドル\r"
+      },
+      {
+        "key": "TXT_KEY_MOST_SOLD",
+        "value": "最も多く引退したアイドル\r"
+      },
+      {
+        "key": "TXT_KEY_MOST_KILLED",
+        "value": "最も強かったアイドル\r"
+      },
+      {
+        "key": "TXT_KEY_PERFECT_WIN",
+        "value": "完全勝利!\r"
+      },
+      {
+        "key": "TXT_KEY_LOSE",
+        "value": "あとちょっとだったのに…\r"
+      },
+      {
+        "key": "TXT_KEY_STAGE_REACHED",
+        "value": "達成ステージ: \r"
+      },
+      {
+        "key": "AfterFirstStage_0",
+        "value": "プロヂューサーさん信じていました!\r"
+      },
+      {
+        "key": "AfterFirstStage_1",
+        "value": "1分以内にすべての相手をクリアできないとHPが失われます…\r"
+      },
+      {
+        "key": "LearnAzusa_0",
+        "value": "~あずさ登場~\r"
+      },
+      {
+        "key": "LearnAzusa_1",
+        "value": "あずささんは自ら直接攻撃ができます。\r"
+      },
+      {
+        "key": "LearnAzusa_2",
+        "value": "代わりに指定対象を除去したり攻撃を防ぐスキルがあります。\r"
+      },
+      {
+        "key": "LearnAzusa_3",
+        "value": "あずささんを利用して961プロのアイドルを除去するとあずささんも消えるのでご注意してください!\r"
+      },
+      {
+        "key": "LearnChihaya_0",
+        "value": "~千早登場~\r"
+      },
+      {
+        "key": "LearnChihaya_1",
+        "value": "千早ちゃんの攻撃は一気に多数の対象にダメージを与えます。\r"
+      },
+      {
+        "key": "LearnChihaya_2",
+        "value": "特性による被害は防御力を無視します!\r"
+      },
+      {
+        "key": "LearnFutami_0",
+        "value": "~双海姉妹登場~\r"
+      },
+      {
+        "key": "LearnFutami_1",
+        "value": "双海姉妹はお互いが攻撃した対象に追加ダメージを与えます。\r"
+      },
+      {
+        "key": "LearnFutami_2",
+        "value": "それだけですが、強いですよ？\r"
+      },
+      {
+        "key": "LearnHaruka_0",
+        "value": "~春香登場~\r"
+      },
+      {
+        "key": "LearnHaruka_1",
+        "value": "春香ちゃんはアイドルたちの能力を上昇させることができます!\r"
+      },
+      {
+        "key": "LearnHibiki_0",
+        "value": "~響登場~\r"
+      },
+      {
+        "key": "LearnHibiki_1",
+        "value": "響ちゃんは時間が経つにつれて増加するダメージが増えます!\r"
+      },
+      {
+        "key": "LearnHibiki_2",
+        "value": "しかし、響ちゃんの周りのアイドルたちはちょっと弱化されます!\r"
+      },
+      {
+        "key": "LearnIori_0",
+        "value": "~伊織登場~\r"
+      },
+      {
+        "key": "LearnIori_1",
+        "value": "伊織ちゃんはめっちゃ強いアイドルです!\r"
+      },
+      {
+        "key": "LearnIori_2",
+        "value": "凸ビームは破壊的ですよ!\r"
+      },
+      {
+        "key": "LearnBossStage_0",
+        "value": "~ボスステージ~\r"
+      },
+      {
+        "key": "LearnBossStage_1",
+        "value": "5の倍数のステージでにボスが登場します!\r"
+      },
+      {
+        "key": "LearnBossStage_2",
+        "value": "ボスは一つでも逃すとゲームオーバーになります。\r"
+      },
+      {
+        "key": "LearnBossStage_3",
+        "value": "プロヂューサーさん…頑張ってください！\r"
+      },
+      {
+        "key": "LearnKuroiProductionIntro_0",
+        "value": "ハハハ！弱小プロの765プロじゃないか\r"
+      },
+      {
+        "key": "LearnKuroiProductionIntro_1",
+        "value": "終わらせてやる！!\r"
+      },
+      {
+        "key": "LearnKuroiProduction_0",
+        "value": "~961プロの登場~\r"
+      },
+      {
+        "key": "LearnKuroiProduction_1",
+        "value": "961プロは裏切ったアイドルたちを送ります。 <color=#77C877>961プロのアイドルたちの攻撃は敵を回復させます。</#color>\r"
+      },
+      {
+        "key": "LearnKuroiProduction_2",
+        "value": "961プロのアイドルたちは765プロのアイドルと同じステータスを持っています。\r"
+      },
+      {
+        "key": "LearnKuroiProduction_3",
+        "value": "プロヂューサーさん…頑張ってください！\r"
+      },
+      {
+        "key": "LearnOptions_0",
+        "value": "アイドルはポイントと交換できます!\r"
+      },
+      {
+        "key": "LearnOptions_1",
+        "value": "或いは待機室に送って必要な時にまた呼ぶこともできます!\r"
+      },
+      {
+        "key": "LearnOptions_2",
+        "value": "ステージの配置空間は限定されているのでご注意ください。\r"
+      },
+      {
+        "key": "LearnDance_0",
+        "value": "~アップグレード- 3 ~\r"
+      },
+      {
+        "key": "LearnDance_1",
+        "value": "ダンスポイントはアイドルを販売させてもらえます。\r"
+      },
+      {
+        "key": "LearnDance_2",
+        "value": "ダンスポイントはアイドルのスキルを強化できます!\r"
+      },
+      {
+        "key": "LearnManyWave_0",
+        "value": "~後半のアドバイス~\r"
+      },
+      {
+        "key": "LearnManyWave_1",
+        "value": "6 ~ 9ステージではもっと多い敵が現れます。\r"
+      },
+      {
+        "key": "LearnSellKuroi_0",
+        "value": "因みにこのバトンを押すと、\r"
+      },
+      {
+        "key": "LearnSellKuroi_1",
+        "value": "裏切ったアイドルに業界の恐ろしさ（消滅）を見られるよ\r"
+      },
+      {
+        "key": "LearnToPlay_0",
+        "value": "~ゲームについて~\r"
+      },
+      {
+        "key": "LearnToPlay_1",
+        "value": "5枚のカードをもらって、1枚につき1回ずつ新しいカードに交換できます!\r"
+      },
+      {
+        "key": "LearnToPlay_2",
+        "value": "良いポーカー役を完成させたほうがいいと思います!\r"
+      },
+      {
+        "key": "LearnToPlay_3",
+        "value": "ポーカーの役は下でご確認ください\r"
+      },
+      {
+        "key": "LearnToPlay_4",
+        "value": "役を確定じアイドルに交換すればオッケーです!\r"
+      },
+      {
+        "key": "LearnToPlay_5",
+        "value": "なぜポーカーなのか？…ってそうですね…\r"
+      },
+      {
+        "key": "LearnToPlay_6",
+        "value": "でも楽しいからよくないですか！\r"
+      },
+      {
+        "key": "LearnToPlace_0",
+        "value": "交換されたカードは下記から確認してください!\r"
+      },
+      {
+        "key": "LearnToPlace_1",
+        "value": "<color=#c8c877>黄色</color>タイルをタッチしてアイドルを配置できます！\r"
+      },
+      {
+        "key": "LearnToPlace_2",
+        "value": "プロヂューサーさん…頑張ってください！\r"
+      },
+      {
+        "key": "LearnTrendingIdol_0",
+        "value": "~流行りの アイドル~\r"
+      },
+      {
+        "key": "LearnTrendingIdol_1",
+        "value": "7ターンごとに 今週の流行りの アイドルが選ばれました！!\r"
+      },
+      {
+        "key": "LearnTrendingIdol_2",
+        "value": "流行りのアイドルは攻撃力が大きく上がります!\r"
+      },
+      {
+        "key": "LearnTrendingIdol_3",
+        "value": "流行りに合うアイドルでもっと手やすく勝てます！\r"
+      },
+      {
+        "key": "LearnVisual_0",
+        "value": "~アップグレード- 2 ~\r"
+      },
+      {
+        "key": "LearnVisual_1",
+        "value": "ビジュアルポイントは特定の役で獲得できます。\r"
+      },
+      {
+        "key": "LearnVisual_2",
+        "value": "ビジュアルアップグレードは<color=#c80000>攻撃力を大きく</color>上昇させます\r"
+      },
+      {
+        "key": "LearnVisual_3",
+        "value": "ビジュアルポイントをもらえる役はルールでご確認ください!\r"
+      },
+      {
+        "key": "LearnVocal_0",
+        "value": "~アップグレード- 1 ~\r"
+      },
+      {
+        "key": "LearnVocal_1",
+        "value": "敵を倒すたびにボーカルポイントをもらえます。\r"
+      },
+      {
+        "key": "LearnVocal_2",
+        "value": "ボーカルアップグレードは<color=#c80000>攻撃力</color>を少し上昇させます！\r"
+      },
+      {
+        "key": "LearnPurchaseTile_0",
+        "value": "ポイントを使って追加のタイルを購入できます!\r"
+      },
+      {
+        "key": "LearnPurchaseTile_1",
+        "value": "使えるポイントは選べられますので必要によって選択してください!\r"
+      },
+      {
+        "key": "LearnMakoto_0",
+        "value": "~真登場~\r"
+      },
+      {
+        "key": "LearnMakoto_1",
+        "value": "真くんは隠れた力を持ったアイドルです!\r"
+      },
+      {
+        "key": "LearnMakoto_2",
+        "value": "力を解放した真くんは範囲攻撃を行います!\r"
+      },
+      {
+        "key": "LearnMiki_0",
+        "value": "~美希登場~\r"
+      },
+      {
+        "key": "LearnMiki_1",
+        "value": "美希ちゃんは一気で広い範囲を攻撃できます。\r"
+      },
+      {
+        "key": "LearnMiki_2",
+        "value": "しかし怠け者の美希ちゃんはステージ開始直後は攻撃しませんのでご注意ください!\r"
+      },
+      {
+        "key": "KuroiReaction_0",
+        "value": "な。何をする!!\r"
+      },
+      {
+        "key": "LearnTakane_0",
+        "value": "~貴音登場~\r"
+      },
+      {
+        "key": "LearnTakane_1",
+        "value": "貴音さんは指定した範囲に範囲攻撃をするアイドルです。\r"
+      },
+      {
+        "key": "LearnTakane_2",
+        "value": "よく利用すれば一度に面倒な敵をすべて排除できますよ?\r"
+      },
+      {
+        "key": "LearnYayoi_0",
+        "value": "~やよい登場~\r"
+      },
+      {
+        "key": "LearnYayoi_1",
+        "value": "やよいちゃんはボーナスを貰えるスキルがあります!\r"
+      },
+      {
+        "key": "LearnYayoi_2",
+        "value": "やよいちゃんの能力で765プロみんなが強くなれます！。\r"
+      },
+      {
+        "key": "LearnYukiho_0",
+        "value": "~雪歩登場~\r"
+      },
+      {
+        "key": "LearnYukiho_1",
+        "value": "雪歩ちゃんは指定した対象を行動不能にするスキルがあります!\r"
+      },
+      {
+        "key": "LearnYukiho_2",
+        "value": "強い敵は雪歩ちゃんで対応してみましょう!\r"
+      },
+      {
+        "key": "LearnYukiho_3",
+        "value": "プロヂューサーさん…頑張ってください！\r"
+      }
+    ]
+  }
